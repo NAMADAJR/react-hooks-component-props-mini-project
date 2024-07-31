@@ -1,7 +1,4 @@
 import React from "react";
-import blogData from "../data/blog";
-
-
 
 const About = ({ about, image = "https://via.placeholder.com/215" }) => {
   return (

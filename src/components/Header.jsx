@@ -1,5 +1,4 @@
 import React from "react";
-import blogData from "../data/blog";
 
 const Header = ({ name }) => {
   return (
